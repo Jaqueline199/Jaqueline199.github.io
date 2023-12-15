@@ -27,13 +27,13 @@ h1 {
 }
 
 .seccion-oscura {
-  color: white;
-  background-color:#f88f89;
+  color: black;
+  background-color:#d9ddcd;
 }
 
 .seccion-clara {
-  color: rgb(238, 217, 217)35, 213, 213;
-  background-color:#fbf6d0;
+  color: rgb(217, 229, 238)35, 213, 213;
+  background-color: #efbc98;
 }
 
 .seccion-titulo {
@@ -44,7 +44,7 @@ h1 {
 
 .seccion-descripcion {
   font-size: 1.2rem;
-  color: #a62e2e;
+  color:black;
 }
 
 .seccion-texto {
@@ -172,6 +172,7 @@ h1 {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+  
 }
 
 .overlay p {
@@ -358,7 +359,7 @@ footer {
 
 .derechos-de-autor {
   font-size: 15px;
-  color: #aeaeae;
+  color: #010101;
   padding: 20px;
 }
 
